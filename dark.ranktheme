@@ -1,0 +1,62 @@
+# metadata
+meta_name: Dark
+meta_author: miwafoxl
+meta_description: Mmm yeah very cozy and PRO looking... oh yeah
+
+# interface pallette
+color1: ffffff
+color2: 212226
+color3: ff0000
+color4: 009966
+color5: 6676c5
+color6: 919ee0
+color7: 646464
+color8: 232428
+color9: 8e97c4
+color10: 000000
+color11: 27282d
+color12: 222327
+
+# ranks pallette
+color51: f37475
+color52: f5886B
+color53: f79465
+color54: dFac78
+color55: d8c47e
+color56: c0cb74
+color57: b1ca69
+color58: a0d083
+color59: 7ec891
+color60: 64cdf6
+
+# elements
+interface_background: 2
+interface_modalBackground: 12
+
+text_base: 1
+text_contrast: 2
+text_error: 3
+text_successful: 4
+textbox_text: 1
+textbox_background: 11
+
+hyperlink_base: 5
+hyperlink_hover: 6
+hyperlink_click: 1
+hyperlink_disabled: 7
+
+tracklist_base: 8
+tracklist_hover: 9
+tracklist_selected: 5
+tracklist_draghandle: 5
+tracklist_text_base: 1
+tracklist_text_hover: 10
+tracklist_star_base: 1
+tracklist_star_hover: 2
+
+menu_base: 12
+menu_hover: 9
+menu_text_base: 1
+menu_text_hover: 2
+menu_icon_base: 1
+menu_icon_hover: 2

@@ -1,0 +1,141 @@
+{
+	"tracklist_section" : {
+
+		"tracklist" : "Tracklist",
+		"add_songs" : "+ add tracks",
+		"export_tracklist" : "export tracklist",
+		"sort" : "sort tracks",
+		"share_my_ranking" : "share my ranking"
+
+},  "tracklist" : {
+
+		"unknown_artist" : "(unknown)",
+		"untitled_track" : "(untitled)"
+
+},
+	"rankwizard_section" : {
+
+		"settings" : "settings",
+		"about" : "about"
+
+},
+	"ranking_section" : {
+
+		"ranking" : "Ranking",
+		"add_comment" : "+ add comment",
+		"edit_comment" : "edit comment",
+		"comment_on_this_track" : "comment on this track"
+
+},
+	"rankings_text" : {
+
+		"star_1" : "Absolute Garbage",
+		"star_2" : "Dog's shit",
+		"star_3" : "Very Bad",
+		"star_4" : "Bad",
+		"star_5" : "Meh",
+		"star_6" : "Not Bad",
+		"star_7" : "Good",
+		"star_8" : "Nice",
+		"star_9" : "Banger",
+		"star_10" : "Masterpiece"
+
+},
+	"tweaks_section" : {
+
+		"tweaks" : "Tweaks",
+		"preview" : "preview",
+
+		"example_artist" : "Artist",
+		"example_artist2" : "Artist 2",
+		"example_title" : "Title",
+		"example_rank" : "5/10",
+		"example_remixer" : "Remixer",
+
+		"artist" : "artist",
+		"show_artist_always" : "always show artist",
+		"show_artist_when_collab" : "show artist when is a collab",
+		"show_artist_when_remix" : "show artist when is a remix",
+		"invert_artist_title" : "invert artist/title order",
+		"artist_title_separator" : "artist/title separator",
+		"rank" : "rank",
+		"use_5_points_system" : "use 5-points system",
+		"hide_maximum_points" : "hide maximum points",
+		"title_rank_separator" : "title/rank separator",
+		"bold" : "bold",
+		"italic" : "italic"
+
+},
+	"lists" : {
+		"main_list" : "main",
+		"add_list" : "+list"
+
+},
+	"add_songs_overlay" : {
+
+		"add_songs_to_tracklist" : "add songs to your tracklist",
+		"automatic" : "automatic",
+		"manual" : "manual",
+		"automatic_description" : "automatic: RankWizard will automatically organize the song's metadata.",
+		"manual_description" : "manual: manually add the song's metadata",
+		"add_songs_description" : "one song per line, examples:\nArtist 1 & Artist 2 - Title\nArtist - Title (ft. Artist)\nArtist 1, Artist 2 - Title (Artist Remix)\nArtist 1 + Artist 2 - Title (Subtitle)",
+		"rankmagnet_alternative" : "or, you can import songs by pasting a RankMagnet code below",
+		"rankmagnet_help" : "how to get a RankMagnet code",
+
+		"add_song_hyperlink": "+ add this song",
+		"add_songs_hyperlink": "+ add %s songs",
+		"add_sucesseful" : "added %s song(s) to tracklist!",
+
+		"import_songs" : "+ import %s songs",
+		"import_song" : "+ import this song (seriously?)",
+		"import" : "+ import",
+
+		"many_songs_warning" : "Reminder:  You are about to add %s tracks. Althought the app can handle this large amount of tracks, it may become sluggish to scroll around.\n\nAnyways, can we talk about how huge this album you're about to rank is?! Damn."
+
+},
+	"edit_songs_overlay" : {
+
+		"edit_song" : "edit song",
+		"title" : "title",
+		"title_description" : "title (subtitle)",
+		"artist" : "artist",
+		"artist_description" : "original producer/musician",
+		"featurings" : "featuring(s)",
+		"featurings_description" : "vocalist(s) and/or musician(s)",
+		"remixers" : "remixer(s)",
+		"remixers_description" : "remix producer/musician",
+		"remix_type" : "remix type",
+		"multiple_artists_comma" : "multiple artists can be separated by commas",
+		"save_edit" : "save"
+
+},
+	"export_tracklist_overlay" : {
+
+		"export_your_tracklist" : "export your tracklist",
+		"export_tracklist_code" : "export your tracklist by sharing the RankMagnet code below. note: it doesn't contain your scores and comments, only the songs.",
+		"copy_to_clipboard" : "copy to clipboard",
+		"copied" : "copied!"
+
+
+},
+	"rankmagnet" : {
+
+		"rankmagnet_code" : "RankMagnet code",
+		"replace_tracklist_warning" : "This will erase your current tracklist! Do you want to continue?\n\nYou can change this behaviour on the settings\nBehaviour > RankMagnet action > Replace or Merge",
+		"merge_tracklist_warning" : "This will merge to your current tracklist! Do you want to continue?\n\nYou can change this behaviour on the settings\nBehaviour > RankMagnet action > Replace or Merge",
+		"get" : "How to get a RankMagnet?\n\nRankMagnets can be exported by people who already have a tracklist. To export your tracklist you can use the 'export tracklist' button; A code will be given which can use to import songs.",
+		"invalid_code" : "invalid RankMagnet code",
+		"valid_code" : "ready to import"
+
+},
+	"menu" : {
+
+		"edit" : "edit",
+		"move_up" : "move up",
+		"move_down" : "move down",
+		"remove_score" : "remove score",
+		"delete_song" : "delete",
+		"add_to_list" : "add to %s"
+
+}
+}
